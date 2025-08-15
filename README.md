@@ -64,3 +64,6 @@ Example usage for the python script:
 python3 i2c-master-test.py -m "Capitalize me!"
 ```
 
+# References
+- https://raspberrypi.stackexchange.com/questions/76109/raspberry-as-an-i2c-slave/91438#91438
+
